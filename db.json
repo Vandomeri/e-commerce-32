@@ -1,0 +1,94 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Маргарита",
+            "price": 8.5,
+            "category": "pizza"
+        },
+        {
+            "id": 2,
+            "title": "Пепперони",
+            "price": 9.0,
+            "category": "pizza"
+        },
+        {
+            "id": 3,
+            "title": "Четыре сыра",
+            "price": 10.0,
+            "category": "pizza"
+        },
+        {
+            "id": 4,
+            "title": "Классический бургер",
+            "price": 7.0,
+            "category": "burgers"
+        },
+        {
+            "id": 5,
+            "title": "Чизбургер",
+            "price": 7.5,
+            "category": "burgers"
+        },
+        {
+            "id": 6,
+            "title": "Беконбургер",
+            "price": 8.0,
+            "category": "burgers"
+        },
+        {
+            "id": 7,
+            "title": "Начос с сыром",
+            "price": 5.0,
+            "category": "snacks"
+        },
+        {
+            "id": 8,
+            "title": "Куриные наггетсы",
+            "price": 6.0,
+            "category": "snacks"
+        },
+        {
+            "id": 9,
+            "title": "Картофель фри",
+            "price": 4.0,
+            "category": "snacks"
+        },
+        {
+            "id": 10,
+            "title": "Кола",
+            "price": 2.0,
+            "category": "drinks"
+        },
+        {
+            "id": 11,
+            "title": "Сок апельсиновый",
+            "price": 3.0,
+            "category": "drinks"
+        },
+        {
+            "id": 12,
+            "title": "Минеральная вода",
+            "price": 1.5,
+            "category": "drinks"
+        },
+        {
+            "id": 13,
+            "title": "Тирамису",
+            "price": 4.5,
+            "category": "desserts"
+        },
+        {
+            "id": 14,
+            "title": "Мороженое ванильное",
+            "price": 3.5,
+            "category": "desserts"
+        },
+        {
+            "id": 15,
+            "title": "Шоколадный торт",
+            "price": 5.0,
+            "category": "desserts"
+        }
+    ]
+}
