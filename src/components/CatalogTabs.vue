@@ -14,6 +14,7 @@
       :price="product.price" :category="product.category" />
   </div>
 
+
 </template>
 
 
@@ -43,5 +44,7 @@ onMounted(() => {
     .then((json) => products.value = json)
     .then(() => uniqueCategories.value = [...new Set(products.value.map(product => product.category))])
 })
+
+
 
 </script>

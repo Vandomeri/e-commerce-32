@@ -4,7 +4,8 @@
     <p>{{ title }}</p>
     <p>{{ price }}$</p>
     <p>{{ category }}</p>
-    <button v-if="basketIndex === -1" @click="addToCart()" class="shadow-lg">Купить</button>
+    <button v-if="basketIndex === -1" @click="addToCart()"
+      class="shadow-lg py-2 px-4 rounded-md text-white bg-yellow-400 mt-4">Купить</button>
     <CounterComponent :basket-index="basketIndex" v-else />
   </div>
 

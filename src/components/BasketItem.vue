@@ -1,6 +1,6 @@
 <template>
-  <div>
-    <div>
+  <div class="flex justify-between items-center ">
+    <div class="flex gap-x-3">
       <p>{{ item.title }}</p>
       <p>{{ item.price * item.quantity }}$</p>
     </div>
